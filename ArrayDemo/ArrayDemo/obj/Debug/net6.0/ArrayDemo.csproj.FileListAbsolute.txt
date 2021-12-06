@@ -1,0 +1,14 @@
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.exe
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.deps.json
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.runtimeconfig.json
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.dll
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ref\ArrayDemo.dll
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\bin\Debug\net6.0\ArrayDemo.pdb
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.AssemblyInfo.cs
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.dll
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ref\ArrayDemo.dll
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.pdb
+C:\Users\Mr.H\source\repos\ArrayDemo\ArrayDemo\obj\Debug\net6.0\ArrayDemo.genruntimeconfig.cache

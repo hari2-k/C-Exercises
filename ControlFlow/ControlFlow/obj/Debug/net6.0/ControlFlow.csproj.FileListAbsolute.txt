@@ -1,0 +1,15 @@
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ref\ControlFlow.dll
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.AssemblyReference.cache
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+C:\Users\Mr.H\source\repos\ControlFlow\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
